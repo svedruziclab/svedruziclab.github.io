@@ -4,7 +4,7 @@
 
 **International Spelling:** Zeljko M. Svedruzic
 
-**Positions:** [Assistant Professor](https://portal.uniri.hr/Portfelj/2140) at [University of Rijeka](https://www.uniri.hr/) [Department of Biotechnology](https://www.biotech.uniri.hr/) and Adjunct Faculty at the [Faculty of Medicine](https://www.medri.uniri.hr/)
+**Positions:** [Associate Professor](https://portal.uniri.hr/Portfelj/2140) at [University of Rijeka](https://www.uniri.hr/) [Department of Biotechnology](https://www.biotech.uniri.hr/) and Adjunct Faculty at the [Faculty of Medicine](https://www.medri.uniri.hr/)
 
 **E-mail:** zeljko.svedruzic-at-biotech.uniri.hr ([more, including social networks](contact.md))
 
@@ -75,7 +75,7 @@ Biochemistry, physical biochemistry (i.e. biophysics), medicinal chemistry, bioo
 
 - [University of Rijeka](https://www.uniri.hr/) [Department of Biotechnology](https://www.biotech.uniri.hr/) (2013 – present)
 
-    - **Position:** Assistant Professor
+    - **Position:** Assistant Professor (until 2022); Associate Professor (present)
 
 - [University of Rijeka](https://www.uniri.hr/) [Faculty of Medicine](https://www.medri.uniri.hr/) (2010 – present)
 

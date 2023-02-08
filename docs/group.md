@@ -8,7 +8,7 @@
 
 **Postal Address:** Radmile Matejčić 2, University Campus Trsat, HR-51000 Rijeka, Croatia ([on OpenStreetMap](https://www.openstreetmap.org/?mlat=45.32870&mlon=14.46690#map=19/45.32870/14.46690))
 
-**Principal Investigator:** [Željko M. Svedružić, Ph.D.](principal-investigator.md), assistant professor of biochemistry
+**Principal Investigator:** [Željko M. Svedružić, Ph.D.](principal-investigator.md), associate professor of biochemistry
 
 ## Students
 
