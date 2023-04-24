@@ -2,6 +2,22 @@
 
 The research work in Biomolecular Structure and Function Group was centered on DNA methylation and Alzheimer's disease. The contents of the website will be kept as they were for archival purposes.
 
+## Obituary: Željko Svedružić
+
+Sourced from [Department of Biotechnology (in English)](https://www.biotech.uniri.hr/en/):
+
+> Dr Željko Svedružić, associate professor at the Department of Biotechnology, University of Rijeka, passed away unexpectedly on the 20th April 2023.
+>
+> We at the Department of Biotechnology knew him as a scientist, a colleague, a teacher and a mentor, and his passing has left a void in many of us. Underlying his apparently child-like naivety and occasionally provocative approach to his colleagues, were his strong ethical principles that guided him in both his work and private lives.
+>
+> He was defined by his unique and quirky personality, his enthusiasm for science and his openness to everyone, because as he used to say jokingly: I am Svedružić (which loosely translates as "all friend") and I like to socialise with everyone. Now, though, there will be no more socialising, but our memories of the good and unique moments we spent with Željko will remain. He loved sports and was actively involved in them, and he was most proud of his butterfly swimming stroke. He left each of us who knew him with a series of anecdotes that we will remember and, one day, after we have accepted his departure, we will recount them with joy and fond memories.
+>
+> Željko was born on 16th March 1969 in Osijek. He completed his graduate studies in Molecular Biology and Biochemistry at the Faculty of Science and Mathematics in Zagreb, and continued his doctoral studies at the Oklahoma State University, where he defended his doctorate in Enzymology and Enzyme Kinetics in 1998. He then undertook postdoctoral training at the University of Santa Barbara in California, Duke University in North Carolina, Washington State University in Washington, and the Catholic University of Leuven in Belgium.
+>
+> After returning to Croatia in 2010, he was employed in the Medical Biochemistry laboratory of the Rab Psychiatric Hospital. Since summer 2013, he has been working as an Assistant Professor at the Department of Biotechnology, University of Rijeka, where he led several undergraduate and masters courses, acted as mentor to many successful research students, and was extremely active in the popularisation of science. In 2022 he was promoted to the status of Associate Professor. His research at the Department of Biotechnology focused on the structure, function and design of biomedically active molecules using in silico approaches.
+>
+> Rest in peace, dear Željko.
+
 ## In Memoriam: Željko Svedružić
 
 Sourced from [Department of Biotechnology (in Croatian)](https://www.biotech.uniri.hr/hr/):
