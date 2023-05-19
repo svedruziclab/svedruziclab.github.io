@@ -50,7 +50,7 @@ If you are interested in joining the group, [contact us](contact.md).
 
 ### 2014/2015
 
-- [Patrik Nikolić](https://nikoli.ch/), M.Sc. in medicinal chemistry; *owner*, [BioRX Partners](https://www.biorxpartners.com/); former *translational research scientist*, [RxTx](https://www.rxtx.tech/)
+- [Patrik Nikolić](https://nikoli.ch/), M.Sc. in medicinal chemistry; *owner*, [BioRX Partners](https://www.biorxpartners.com/); former *translational research scientist*, [RxTx Research](https://rxtxresearch.github.io/)
 
 ### Others
 
