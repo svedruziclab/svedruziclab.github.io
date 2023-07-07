@@ -1,11 +1,16 @@
 ---
+authors:
+  - zsvedruzic
+date: 2021-06-28
 tags:
   - Publications
 ---
 
 # Co-Aggregation of S100A9 with DOPA and Cyclen-Based Compounds Manifested in Amyloid Fibril Thickening without Altering Rates of Self-Assembly published in MDPI International Journal of Molecular Sciences
 
-Our research paper titled [Co-Aggregation of S100A9 with DOPA and Cyclen-Based Compounds Manifested in Amyloid Fibril Thickening without Altering Rates of Self-Assembly](https://www.mdpi.com/1422-0067/22/16/8556), authored by Lili Arabuli, Igor A. Iashchishyn, Nina V. Romanova, Greta Musteikyte, Vytautas Smirnovas, Himanshu Chaudhary, [Željko M. Svedružić](../principal-investigator.md), and Ludmilla A. Morozova-Roche has been published in [Volume 22](https://www.mdpi.com/1422-0067/22) [Issue 16](https://www.mdpi.com/1422-0067/22/16) of [MDPI](https://www.mdpi.com/) [International Journal of Molecular Sciences](https://www.mdpi.com/journal/ijms).
+Our research paper titled [Co-Aggregation of S100A9 with DOPA and Cyclen-Based Compounds Manifested in Amyloid Fibril Thickening without Altering Rates of Self-Assembly](https://www.mdpi.com/1422-0067/22/16/8556), authored by Lili Arabuli, Igor A. Iashchishyn, Nina V. Romanova, Greta Musteikyte, Vytautas Smirnovas, Himanshu Chaudhary, [Željko M. Svedružić](../../principal-investigator.md), and Ludmilla A. Morozova-Roche has been published in [Volume 22](https://www.mdpi.com/1422-0067/22) [Issue 16](https://www.mdpi.com/1422-0067/22/16) of [MDPI](https://www.mdpi.com/) [International Journal of Molecular Sciences](https://www.mdpi.com/journal/ijms).
+
+<!-- more -->
 
 ## Abstract
 

@@ -1,11 +1,16 @@
 ---
+authors:
+  - zsvedruzic
+date: 2021-06-03
 tags:
   - Publications
 ---
 
 # Polyoxometalates as Effective Nano-inhibitors of Amyloid Aggregation of Pro-inflammatory S100A9 Protein Involved in Neurodegenerative Diseases published in ACS Applied Materials & Interfaces
 
-Our research paper titled [Polyoxometalates as Effective Nano-inhibitors of Amyloid Aggregation of Pro-inflammatory S100A9 Protein Involved in Neurodegenerative Diseases](https://pubs.acs.org/doi/full/10.1021/acsami.1c04163), authored by Himanshu Chaudhary, Igor A. Iashchishyn, Nina V. Romanova, Mark A. Rambaran, Greta Musteikyte, Vytautas Smirnovas, Michael Holmboe, C. André Ohlin, [Željko M. Svedružić](../principal-investigator.md), and [Ludmilla A. Morozova-Roche](https://www.umu.se/en/staff/ludmilla-morozova-roche/) ([research group](https://www.umu.se/en/research/groups/ludmilla-morozova-roche/)), has been published in [Volume 13, Issue 23](https://pubs.acs.org/toc/aamick/13/23) of [ACS](https://www.acs.org/) journal [Applied Materials & Interfaces](https://pubs.acs.org/journal/aamick).
+Our research paper titled [Polyoxometalates as Effective Nano-inhibitors of Amyloid Aggregation of Pro-inflammatory S100A9 Protein Involved in Neurodegenerative Diseases](https://pubs.acs.org/doi/full/10.1021/acsami.1c04163), authored by Himanshu Chaudhary, Igor A. Iashchishyn, Nina V. Romanova, Mark A. Rambaran, Greta Musteikyte, Vytautas Smirnovas, Michael Holmboe, C. André Ohlin, [Željko M. Svedružić](../../principal-investigator.md), and [Ludmilla A. Morozova-Roche](https://www.umu.se/en/staff/ludmilla-morozova-roche/) ([research group](https://www.umu.se/en/research/groups/ludmilla-morozova-roche/)), has been published in [Volume 13, Issue 23](https://pubs.acs.org/toc/aamick/13/23) of [ACS](https://www.acs.org/) journal [Applied Materials & Interfaces](https://pubs.acs.org/journal/aamick).
+
+<!-- more -->
 
 ## Abstract
 

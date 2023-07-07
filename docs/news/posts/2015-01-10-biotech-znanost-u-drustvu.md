@@ -1,11 +1,16 @@
 ---
+authors:
+  - zsvedruzic
+date: 2015-01-10
 tags:
   - Media appearances
 ---
 
 # BioSFGroup featured in student journal Biotech – znanost u društvu
 
-BioSFGroup's [Prof. Dr. Željko Svedružić](../principal-investigator.md), [Patrik Nikolić, and Vedran Miletić](../group.md) were featured in in [University of Rijeka](https://www.uniri.hr/) [Department of Biotechnology](https://www.biotech.uniri.hr/) student journal Biotech – znanost u društvu [issue 3](/files/biotech-znanost-u-drustvu-2014-12.pdf) ([also available on Issuu](https://issuu.com/biotech_ri/docs/__asopis_2014-novo)) from December 2014 (front page; pages 9–16: *interview: doc. dr. sc. Željko Svedružić*; page 17: *interview: Patrik Nikolić*; pages 18–19: *interview: Vedran Miletić*).
+BioSFGroup's [Prof. Dr. Željko Svedružić](../../principal-investigator.md), [Patrik Nikolić, and Vedran Miletić](../../group.md) were featured in in [University of Rijeka](https://www.uniri.hr/) [Department of Biotechnology](https://www.biotech.uniri.hr/) student journal Biotech – znanost u društvu [issue 3](/files/biotech-znanost-u-drustvu-2014-12.pdf) ([also available on Issuu](https://issuu.com/biotech_ri/docs/__asopis_2014-novo)) from December 2014 (front page; pages 9–16: *interview: doc. dr. sc. Željko Svedružić*; page 17: *interview: Patrik Nikolić*; pages 18–19: *interview: Vedran Miletić*).
+
+<!-- more -->
 
 ![Front page](/images/biotech-znanost-u-drustvu-2014-12-front-page.jpg)
 

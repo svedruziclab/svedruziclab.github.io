@@ -1,11 +1,16 @@
 ---
+authors:
+  - zsvedruzic
+date: 2018-09-28
 tags:
   - Science popularization
 ---
 
 # European Researchers' Night 2018
 
-[European Researchers'](https://youtu.be/_65gSYQ57bs) [Night 2018](https://youtu.be/52U9xF-fIzI) [in Rijeka](https://youtu.be/3KczFTftjnw) took place in [Tower Center](https://www.tower-center-rijeka.hr/magazin/sto-vas-sve-ceka-na-noci-istrazivaca/) on Friday, 28th September 2018. [BioSFGroup](../group.md) participated with the topic *Microscope vs. supercomputers in pharmacy (supercomputers are 21st century microscopes)*.
+[European Researchers'](https://youtu.be/_65gSYQ57bs) [Night 2018](https://youtu.be/52U9xF-fIzI) [in Rijeka](https://youtu.be/3KczFTftjnw) took place in [Tower Center](https://www.tower-center-rijeka.hr/magazin/sto-vas-sve-ceka-na-noci-istrazivaca/) on Friday, 28th September 2018. [BioSFGroup](../../group.md) participated with the topic *Microscope vs. supercomputers in pharmacy (supercomputers are 21st century microscopes)*.
+
+<!-- more -->
 
 ![Rajna, Vedran, and Željko](/images/noc-istrazivaca-2018-rajna-vedran-zeljko.jpg)
 

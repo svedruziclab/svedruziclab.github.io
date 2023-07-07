@@ -1,11 +1,16 @@
 ---
+authors:
+  - zsvedruzic
+date: 2021-05-12
 tags:
   - Publications
 ---
 
 # Natural Compound from Olive Oil Inhibits S100A9 Amyloid Formation and Cytotoxicity: Implications for Preventing Alzheimer's Disease published in ACS Chemical Neuroscience
 
-Our research paper titled [Natural Compound from Olive Oil Inhibits S100A9 Amyloid Formation and Cytotoxicity: Implications for Preventing Alzheimer's Disease](https://pubs.acs.org/doi/full/10.1021/acschemneuro.0c00828), authored by Manuela Leri, Himanshu Chaudhary, Igor A. Iashchishyn, Jonathan Pansieri, [Željko M. Svedružić](../principal-investigator.md), Silvia Gómez Alcalde, Greta Musteikyte, Vytautas Smirnovas, Massimo Stefani, Monica Bucciantini, and [Ludmilla A. Morozova-Roche](https://www.umu.se/en/staff/ludmilla-morozova-roche/) ([research group](https://www.umu.se/en/research/groups/ludmilla-morozova-roche/)), has been published in [Volume 12, Issue 11](https://pubs.acs.org/toc/acncdm/12/11) of [ACS](https://www.acs.org/) journal [Chemical Neuroscience](https://pubs.acs.org/journal/acncdm).
+Our research paper titled [Natural Compound from Olive Oil Inhibits S100A9 Amyloid Formation and Cytotoxicity: Implications for Preventing Alzheimer's Disease](https://pubs.acs.org/doi/full/10.1021/acschemneuro.0c00828), authored by Manuela Leri, Himanshu Chaudhary, Igor A. Iashchishyn, Jonathan Pansieri, [Željko M. Svedružić](../../principal-investigator.md), Silvia Gómez Alcalde, Greta Musteikyte, Vytautas Smirnovas, Massimo Stefani, Monica Bucciantini, and [Ludmilla A. Morozova-Roche](https://www.umu.se/en/staff/ludmilla-morozova-roche/) ([research group](https://www.umu.se/en/research/groups/ludmilla-morozova-roche/)), has been published in [Volume 12, Issue 11](https://pubs.acs.org/toc/acncdm/12/11) of [ACS](https://www.acs.org/) journal [Chemical Neuroscience](https://pubs.acs.org/journal/acncdm).
+
+<!-- more -->
 
 ## Abstract
 

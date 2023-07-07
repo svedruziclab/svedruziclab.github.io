@@ -1,11 +1,16 @@
 ---
+authors:
+  - zsvedruzic
+date: 2019-06-05
 tags:
   - Publications
 ---
 
 # Pro-Inflammatory S100A9 Protein Aggregation Promoted by NCAM1 Peptide Constructs published in ACS Chemical Biology
 
-Our research paper titled [Pro-Inflammatory S100A9 Protein Aggregation Promoted by NCAM1 Peptide Constructs](https://pubs.acs.org/doi/full/10.1021/acschembio.9b00394), authored by [Jonathan Pansieri](https://www.umu.se/en/staff/jonathan-pansieri/), [Lucija Ostojić](../group.md), [Igor A. Iashchishyn](https://www.umu.se/en/staff/igor-iashchishyn/), Mazin Magzoub, Cecilia Wallin, Sebastian K. T. S. Wärmländer, Astrid Gräslund, Mai Nguyen Ngoc, Vytautas Smirnovas, [Željko Svedružić](../principal-investigator.md), and [Ludmilla A. Morozova-Roche](https://www.umu.se/en/staff/ludmilla-morozova-roche/) ([research group](https://www.umu.se/en/research/groups/ludmilla-morozova-roche/)), has been published today in [ACS Chemical Biology](https://pubs.acs.org/journal/acbcct).
+Our research paper titled [Pro-Inflammatory S100A9 Protein Aggregation Promoted by NCAM1 Peptide Constructs](https://pubs.acs.org/doi/full/10.1021/acschembio.9b00394), authored by [Jonathan Pansieri](https://www.umu.se/en/staff/jonathan-pansieri/), [Lucija Ostojić](../../group.md), [Igor A. Iashchishyn](https://www.umu.se/en/staff/igor-iashchishyn/), Mazin Magzoub, Cecilia Wallin, Sebastian K. T. S. Wärmländer, Astrid Gräslund, Mai Nguyen Ngoc, Vytautas Smirnovas, [Željko Svedružić](../../principal-investigator.md), and [Ludmilla A. Morozova-Roche](https://www.umu.se/en/staff/ludmilla-morozova-roche/) ([research group](https://www.umu.se/en/research/groups/ludmilla-morozova-roche/)), has been published today in [ACS Chemical Biology](https://pubs.acs.org/journal/acbcct).
+
+<!-- more -->
 
 ## Abstract
 

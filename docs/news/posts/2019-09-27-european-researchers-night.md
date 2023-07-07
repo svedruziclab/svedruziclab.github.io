@@ -1,11 +1,16 @@
 ---
+authors:
+  - zsvedruzic
+date: 2019-09-27
 tags:
   - Science popularization
 ---
 
 # European Researchers' Night 2019
 
-[European Researchers' Night 2019 in Rijeka](https://uniri.hr/vijesti/europska-noc-istrazivaca-u-rijeci-27-rujna-2019/) took place in Tower Center on Friday, 27th September 2019. [BioSFGroup](../group.md) participated with the topic *Supercomputer Bura: our window to the world of molecules*.
+[European Researchers' Night 2019 in Rijeka](https://uniri.hr/vijesti/europska-noc-istrazivaca-u-rijeci-27-rujna-2019/) took place in Tower Center on Friday, 27th September 2019. [BioSFGroup](../../group.md) participated with the topic *Supercomputer Bura: our window to the world of molecules*.
+
+<!-- more -->
 
 ![The group 1](/images/noc-istrazivaca-2019-biosflab-1.jpg)
 

@@ -11,24 +11,7 @@ edit_uri: blob/main/docs/
 nav:
   - Introduction: index.md
   - News:
-    - The Binding of Different Substrate Molecules at the Docking Site and the Active Site of γ-Secretase Can Trigger Toxic Events in Sporadic and Familial Alzheimer’s Disease in MDPI International Journal of Molecular Sciences: news/2023-01-17-mdpi-ijms.md
-    - Binding of different substrate molecules at the docking site and the active site of γ-secretase can trigger toxic events in sporadic and familial Alzheimer’s disease published on bioRxiv: news/2022-04-13-biorxiv.md
-    - Zn(II) binding causes interdomain changes in the structure and flexibility of the human prion protein published in Nature Scientific Reports: news/2021-11-04-applied-materials-and-interfaces.md
-    - Co-Aggregation of S100A9 with DOPA and Cyclen-Based Compounds Manifested in Amyloid Fibril Thickening without Altering Rates of Self-Assembly published in MDPI International Journal of Molecular Sciences: news/2021-06-28-molecular-sciences.md
-    - Polyoxometalates as Effective Nano-inhibitors of Amyloid Aggregation of Pro-inflammatory S100A9 Protein Involved in Neurodegenerative Diseases published in ACS Applied Materials & Interfaces: news/2021-06-03-applied-materials-and-interfaces.md
-    - Natural Compound from Olive Oil Inhibits S100A9 Amyloid Formation and Cytotoxicity -- Implications for Preventing Alzheimer's Disease published in ACS Chemical Neuroscience: news/2021-05-12-chemical-neuroscience.md
-    - Structural Analysis of the Simultaneous Activation and Inhibition of γ-Secretase Activity in the Development of Drugs for Alzheimer's Disease published in MDPI Pharmaceutics: news/2021-04-08-mdpi-pharmaceutics.md
-    - Diverse SARS-CoV-2 variants preceded the initial COVID-19 outbreak in Croatia published in Archives of Virology: news/2021-03-24-archives-of-virology.md
-    - Structural Analysis of Simultaneous Activation and Inhibition of Gamma-Secretase Activity in Development of Drugs for Alzheimer's Disease published on bioRxiv: news/2020-09-22-biorxiv.md
-    - Substrate Channeling via a Transient Protein-Protein Complex -- The case of D-Glyceraldehyde-3-Phosphate Dehydrogenase and L-Lactate Dehydrogenase published in Nature Scientific Reports: news/2020-06-26-scientific-reports.md
-    - BioSFGroup featured in Novi list's VOX academiae again: news/2020-04-17-vox-academiae.md
-    - Substrate Channeling via a Transient Protein-Protein Complex -- The case of D-Glyceraldehyde-3-Phosphate Dehydrogenase and L-Lactate Dehydrogenase published on bioRxiv: news/2020-01-23-biorxiv.md
-    - European Researchers' Night 2019: news/2019-09-27-european-researchers-night.md
-    - BioSFGroup featured in Novi list's VOX academiae: news/2019-08-02-vox-academiae.md
-    - Pro-Inflammatory S100A9 Protein Aggregation Promoted by NCAM1 Peptide Constructs published in ACS Chemical Biology: news/2019-06-05-chemical-biology.md
-    - European Researchers' Night 2018: news/2018-09-28-european-researchers-night.md
-    - In silico design of the first DNA-independent mechanism-based inhibitor of mammalian DNA methyltransferase Dnmt1 published in PLOS ONE: news/2017-04-11-plos-one.md
-    - BioSFGroup featured in student journal Biotech – znanost u društvu: news/2015-01-10-biotech-znanost-u-drustvu.md
+      - news/index.md
   - PI: principal-investigator.md
   - Group: group.md
   - Research: research.md
@@ -76,6 +59,8 @@ extra:
       link: https://github.com/svedruziclab
       name: BioSFGroup on GitHub
 plugins:
+  - blog:
+      blog_dir: news
   - search
   - social
   - tags:

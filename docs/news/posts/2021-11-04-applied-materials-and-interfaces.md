@@ -1,11 +1,16 @@
 ---
+authors:
+  - zsvedruzic
+date: 2021-11-04
 tags:
   - Publications
 ---
 
 # Zn(II) binding causes interdomain changes in the structure and flexibility of the human prion protein published in Nature Scientific Reports
 
-Our research paper titled [Zn(II) binding causes interdomain changes in the structure and flexibility of the human prion protein](https://www.nature.com/articles/s41598-021-00495-0), authored by Maciej Gielnik, Michał Taube, Lilia Zhukova, Igor Zhukov, Sebastian K. T. S. Wärmländer, [Željko M. Svedružić](../principal-investigator.md), Wojciech M. Kwiatek, [Astrid Gräslund](https://www.su.se/english/profiles/astrid-1.182376), and Maciej Kozak, has been published in [Volume 11](https://www.nature.com/srep/volumes/11) of [Nature](https://www.nature.com/) journal [Scientific Reports](https://www.nature.com/srep/).
+Our research paper titled [Zn(II) binding causes interdomain changes in the structure and flexibility of the human prion protein](https://www.nature.com/articles/s41598-021-00495-0), authored by Maciej Gielnik, Michał Taube, Lilia Zhukova, Igor Zhukov, Sebastian K. T. S. Wärmländer, [Željko M. Svedružić](../../principal-investigator.md), Wojciech M. Kwiatek, [Astrid Gräslund](https://www.su.se/english/profiles/astrid-1.182376), and Maciej Kozak, has been published in [Volume 11](https://www.nature.com/srep/volumes/11) of [Nature](https://www.nature.com/) journal [Scientific Reports](https://www.nature.com/srep/).
+
+<!-- more -->
 
 ## Abstract
 

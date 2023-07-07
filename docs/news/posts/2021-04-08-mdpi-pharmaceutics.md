@@ -1,11 +1,16 @@
 ---
+authors:
+  - zsvedruzic
+date: 2021-04-08
 tags:
   - Publications
 ---
 
 # Structural Analysis of the Simultaneous Activation and Inhibition of γ-Secretase Activity in the Development of Drugs for Alzheimer's Disease published in MDPI Pharmaceutics
 
-Our research paper titled [Structural Analysis of the Simultaneous Activation and Inhibition of γ-Secretase Activity in the Development of Drugs for Alzheimer's Disease](https://www.mdpi.com/1999-4923/13/4/514), authored by [Željko Svedružić](../principal-investigator.md), [Katarina Vrbnjak, Manuel Martinović, and Vedran Miletić](../group.md), has been published in special issue [Covalent Inhibitors as Selective Drug Candidates](https://www.mdpi.com/journal/pharmaceutics/special_issues/Drug_Candidates) of [MDPI](https://www.mdpi.com/) open access journal [Pharmaceutics](https://www.mdpi.com/journal/pharmaceutics).
+Our research paper titled [Structural Analysis of the Simultaneous Activation and Inhibition of γ-Secretase Activity in the Development of Drugs for Alzheimer's Disease](https://www.mdpi.com/1999-4923/13/4/514), authored by [Željko Svedružić](../../principal-investigator.md), [Katarina Vrbnjak, Manuel Martinović, and Vedran Miletić](../../group.md), has been published in special issue [Covalent Inhibitors as Selective Drug Candidates](https://www.mdpi.com/journal/pharmaceutics/special_issues/Drug_Candidates) of [MDPI](https://www.mdpi.com/) open access journal [Pharmaceutics](https://www.mdpi.com/journal/pharmaceutics).
+
+<!-- more -->
 
 ## Abstract
 
