@@ -1,4 +1,5 @@
-zsvedruzic:
-  name: Željko Svedružić
-  description: Principal Investigator
-  avatar: https://github.com/zsvedruzic.png
+authors:
+  zsvedruzic:
+    name: Željko Svedružić
+    description: Principal Investigator
+    avatar: https://github.com/zsvedruzic.png
