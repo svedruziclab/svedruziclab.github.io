@@ -8,7 +8,7 @@ If you are interested in expanding your knowledge from [the computational bioche
 
 ### Students from abroad (ERASMUS etc.)
 
-We welcome [ERASMUS(+)](https://ec.europa.eu/programmes/erasmus-plus/node_en) and other guest students who want to learn more about [computational](software) biochemistry using our [supercomputer facilities](https://cnrm.uniri.hr/bura/). If you are interested, get in touch via the e-mail below.
+We welcome [ERASMUS(+)](https://ec.europa.eu/programmes/erasmus-plus/node_en) and other guest students who want to learn more about [computational](software.md) biochemistry using our [supercomputer facilities](https://cnrm.uniri.hr/bura/). If you are interested, get in touch via the e-mail below.
 
 ## Location
 

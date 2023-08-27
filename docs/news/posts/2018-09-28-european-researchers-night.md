@@ -12,13 +12,13 @@ tags:
 
 <!-- more -->
 
-![Rajna, Vedran, and Željko](/images/noc-istrazivaca-2018-rajna-vedran-zeljko.jpg)
+![Rajna, Vedran, and Željko](../../images/noc-istrazivaca-2018-rajna-vedran-zeljko.jpg)
 
-![David, Rajna, and Vedran](/images/noc-istrazivaca-2018-david-rajna-vedran.jpg)
+![David, Rajna, and Vedran](../../images/noc-istrazivaca-2018-david-rajna-vedran.jpg)
 
-![BioSFGroup](/images/noc-istrazivaca-2018-biosflab.jpg)
+![BioSFGroup](../../images/noc-istrazivaca-2018-biosflab.jpg)
 
-[View the program of the European Researchers' Night 2018 in Rijeka (in Croatian).](/files/noc-istrazivaca-2018-rijeka-program.pdf)
+[View the program of the European Researchers' Night 2018 in Rijeka (in Croatian).](../../files/noc-istrazivaca-2018-rijeka-program.pdf)
 
 [View Kanal Ri's video report about European Researchers' Night 2018 in Rijeka (in Croatian)](https://youtu.be/3KczFTftjnw)
 
