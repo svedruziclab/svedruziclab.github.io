@@ -18,6 +18,8 @@ Sourced from [Department of Biotechnology (in English)](https://www.biotech.unir
 >
 > Rest in peace, dear Željko.
 
+Author: [Rozi Andretić Waldowski](https://scholar.google.com/citations?user=vqsp1DAAAAAJ)
+
 ## In Memoriam: Željko Svedružić
 
 Sourced from [Department of Biotechnology (in Croatian)](https://www.biotech.uniri.hr/hr/):
@@ -33,5 +35,7 @@ Sourced from [Department of Biotechnology (in Croatian)](https://www.biotech.uni
 > Nakon povratka u Republiku Hrvatsku 2010. godine zapošljava se u laboratoriju za medicinsku biokemiju u Psihijatrijskoj bolnici Rab. Od ljeta 2013. godine radi kao docent na Odjelu za biotehnologiju Sveučilišta u Rijeci gdje je nositelj nekoliko kolegija prijediplomskog i diplomskog studija, mentor uspješnih studenata diplomskog studija i vrlo aktivan popularizator znanosti. Od 2022. g. promoviran je u status izvanrednog profesora. Istraživački rad na Odjelu za biotehnologiju bio je usmjeren na strukturu, funkciju i dizajn biomedicinski aktivnih molekula korištenjem in silico pristupa.
 >
 > Neka naš dragi Željko počiva u miru.
+
+Autorica: [Rozi Andretić Waldowski](https://portal.uniri.hr/Portfolio/2000)
 
 [TAGS]
