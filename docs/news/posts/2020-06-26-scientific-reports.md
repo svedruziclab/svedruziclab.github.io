@@ -8,7 +8,7 @@ tags:
 
 # Substrate Channeling via a Transient Protein-Protein Complex: The case of D-Glyceraldehyde-3-Phosphate Dehydrogenase and L-Lactate Dehydrogenase published in Nature Scientific Reports
 
-Our research paper titled [Substrate Channeling via a Transient Protein-Protein Complex: The case of D-Glyceraldehyde-3-Phosphate Dehydrogenase and L-Lactate Dehydrogenase](https://www.nature.com/articles/s41598-020-67079-2), authored by [Željko Svedružić](../../principal-investigator.md), [Ivica Odorčić](../../group.md), [Christopher Chang](https://www.nrel.gov/research/christopher-chang.html), and [Draženka Svedružić](https://www.nrel.gov/research/drazenka-svedruzic.html), has been published today in [Nature Scientific Reports](https://www.nature.com/srep/).
+Our research paper titled [Substrate Channeling via a Transient Protein-Protein Complex: The case of D-Glyceraldehyde-3-Phosphate Dehydrogenase and L-Lactate Dehydrogenase](https://www.nature.com/articles/s41598-020-67079-2), authored by [Željko Svedružić](../../principal-investigator.md), [Ivica Odorčić](../../group.md), [Christopher Chang](https://www.nrel.gov/research/christopher-chang.html), and [Draženka Svedružić](https://www.nrel.gov/research/drazenka-svedruzic.html), has been published today in [Volume 10](https://www.nature.com/srep/volumes/10) of [Nature](https://www.nature.com/) journal [Scientific Reports](https://www.nature.com/srep/).
 
 <!-- more -->
 

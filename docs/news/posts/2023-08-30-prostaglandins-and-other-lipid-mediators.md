@@ -6,9 +6,9 @@ tags:
   - Publications
 ---
 
-# Binding interactions of fatty acyl lipid mediators within the vanilloid pocket of TRPV1: A molecular dynamics study
+# Binding interactions of fatty acyl lipid mediators within the vanilloid pocket of TRPV1: A molecular dynamics study published in Elsevier Prostaglandins & Other Lipid Mediators
 
-Our research paper titled [Binding interactions of fatty acyl lipid mediators within the vanilloid pocket of TRPV1: A molecular dynamics study](https://www.sciencedirect.com/science/article/abs/pii/S1098882323000680), authored by Nada Birkic, David Visentin, [Željko Svedružić](../../principal-investigator.md), and Christian A. Reynolds has been published in [Volume 169](https://www.sciencedirect.com/journal/prostaglandins-and-other-lipid-mediators/vol/169/suppl/C) of [Elsevier](https://www.elsevier.com/) [Prostaglandins & Other Lipid Mediators](https://www.sciencedirect.com/journal/prostaglandins-and-other-lipid-mediators).
+Our research paper titled [Binding interactions of fatty acyl lipid mediators within the vanilloid pocket of TRPV1: A molecular dynamics study](https://www.sciencedirect.com/science/article/abs/pii/S1098882323000680), authored by Nada Birkic, David Visentin, [Željko Svedružić](../../principal-investigator.md), and Christian A. Reynolds has been published in [Volume 169](https://www.sciencedirect.com/journal/prostaglandins-and-other-lipid-mediators/vol/169/suppl/C) of [Elsevier](https://www.elsevier.com/) journal [Prostaglandins & Other Lipid Mediators](https://www.sciencedirect.com/journal/prostaglandins-and-other-lipid-mediators).
 
 ## Highlights
 
