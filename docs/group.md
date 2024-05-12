@@ -55,7 +55,7 @@ If you are interested in joining the group, [contact us](contact.md).
 ### Others
 
 - [Miroslav Puškarić](https://www.hlrs.de/en/about-us/organization/people/person/puskaric/), M.Sc. in electrical engineering; *research assistant*, [High-Performance Computing Center Stuttgart (HLRS)](https://www.hlrs.de/)
-- [Vedran Miletić](https://vedran.miletic.net/), Ph.D. in computer science; *assistant professor*, [Group for Applications and Services on Exascale Research Infrastructure (GASERI)](https://group.miletic.net/), [Faculty of Informatics and Digital Technologies](https://www.inf.uniri.hr/), [University of Rijeka](https://uniri.hr/); former *postdoctoral researcher*, [Molecular Biomechanics](https://www.h-its.org/research/mbm/), [Heidelberg Institute for Theoretical Studies](https://www.h-its.org/)
+- [Vedran](https://vedran.miletic.net/) [Miletić](https://www.miletic.net/), Ph.D. in computer science; HPC application expert, [Max Planck Computing and Data Facility](https://www.mpcdf.mpg.de/); *assistant professor*, [Group for Applications and Services on Exascale Research Infrastructure (GASERI)](https://group.miletic.net/), [Faculty of Informatics and Digital Technologies](https://www.inf.uniri.hr/), [University of Rijeka](https://uniri.hr/); former *postdoctoral researcher*, [Molecular Biomechanics](https://www.h-its.org/research/mbm/), [Heidelberg Institute for Theoretical Studies](https://www.h-its.org/)
 - [Tomislav Šubić](https://tsubic.info/), M.Sc. in information technology; *CEO*, [Yotta Advanced Computing](https://yac.hr/)
 
 ## Note to taxpayers
