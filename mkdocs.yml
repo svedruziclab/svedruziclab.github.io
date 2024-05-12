@@ -5,7 +5,9 @@ site_description: >-
 site_author: Željko Svedružić
 site_url: https://svedruziclab.github.io/
 use_directory_urls: false
-copyright: Copyright &copy; 2015 - 2023 Željko Svedružić
+copyright: >-
+  Copyright &copy; 2015 - 2023 Željko Svedružić. All rights reserved.
+  <a href="#__consent">Change cookie settings</a>.
 repo_url: https://github.com/svedruziclab/svedruziclab.github.io/
 edit_uri: blob/main/docs/
 nav:
