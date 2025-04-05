@@ -66,5 +66,4 @@ plugins:
       blog_dir: news
   - search
   - social
-  - tags:
-      tags_file: index.md
+  - tags
