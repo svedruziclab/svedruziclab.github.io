@@ -17,6 +17,8 @@ Our research paper titled [Binding interactions of fatty acyl lipid mediators wi
 - Lipid mediators with similar structures bind similarly within the vanilloid pocket.
 - Polar groups within the ligands’ acyl tails directly impact binding stability.
 
+> We would also like to pay our respect and express our gratitude to our coauthor and colleague, Dr. Željko Svedružić who [unexpectedly passed away in April 2023](2023-04-21-obituary.md). He was a dedicated professor and passionate scientist.
+
 <!-- more -->
 
 ## Abstract

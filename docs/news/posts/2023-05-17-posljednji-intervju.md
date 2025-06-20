@@ -12,7 +12,7 @@ tags:
 >
 > Posljednji intervju sa izv. prof. dr. sc. ŽELJKOM SVEDRUŽIĆEM – Riječko superračunalo BURA i njegova primjena u znanosti
 >
-> Željko Svedružić, izvanredni profesor Odjela za biotehnologiju Sveučilišta u Rijeci, iznenada nas je napustio 20. travnja 2023. godine. Njegov doprinos znanosti na Odjelu, kao i njegov utjecaj na studente, ostavit će neizbrisiv trag i veliku prazninu. Svojim entuzijazmom za znanosti, Željko Svedružić  bio je inspiracija i motivacija mnogim studentima Odjela.
+> Željko Svedružić, izvanredni profesor Odjela za biotehnologiju Sveučilišta u Rijeci, [iznenada nas je napustio 20. travnja 2023. godine](2023-04-21-obituary.md). Njegov doprinos znanosti na Odjelu, kao i njegov utjecaj na studente, ostavit će neizbrisiv trag i veliku prazninu. Svojim entuzijazmom za znanosti, Željko Svedružić  bio je inspiracija i motivacija mnogim studentima Odjela.
 >
 > Pamtit ćemo ga kao profesora koji nas je upoznao sa metodama računalne kemije, profesora koji nam je ponudio djelić svoga znanja koje je stekao na brojnim, prestižnim svjetskim sveučilištima, ali prije svega, pamtit ćemo ga kao čovjeka koji nas je uvijek veselo pozdravljao na hodnicima Odjela, koji nam je uvijek bio spreman pomoći, koji nas je uvijek želio nešto novo naučiti i čija su vrata uvijek bila otvorena za sve nas. Njegova ostavština nastavit će živjeti kroz bezbrojne umove koje je dotaknuo i mnoga otkrića i napredak koji će njegovi studenti i kolege ostvariti u svojim karijerama.
 >
