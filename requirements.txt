@@ -1,1 +1,3 @@
 mkdocs-material[recommended,imaging]
+mkdocs-materialx[recommended,imaging]
+properdocs[i18n]
