@@ -25,6 +25,8 @@ theme:
   logo: images/logo.svg
   favicon: images/favicon.png
   custom_dir: overrides
+  features:
+    - content.action.agents
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
