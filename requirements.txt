@@ -1,2 +1,1 @@
-properdocs[i18n]
-mkdocs-materialx[recommended,imaging]
+zensical
